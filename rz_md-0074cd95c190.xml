@@ -1,11 +1,137 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-10-21 04:54">
+<yml_catalog date="2026-10-21 04:59">
 <shop>
 <name>Мидория</name>
 <currencies><currency id="UAH" rate="1"/></currencies>
 <categories>
+<category id="1" rz_id="80151">Пароочисники</category>
 </categories>
 <offers>
+<offer id="rz9eee65194982a8" available="true">
+<price>3490</price>
+<currencyId>UAH</currencyId>
+<categoryId>1</categoryId>
+<picture>https://images.prom.ua/7291625220_w1280_h640_paroochistitel-parogenerator-hanert-sauber.jpg</picture>
+<picture>https://images.prom.ua/7291616493_w1280_h640_paroochistitel-parogenerator-hanert-sauber.jpg</picture>
+<picture>https://images.prom.ua/7291616471_w1280_h640_paroochistitel-parogenerator-hanert-sauber.jpg</picture>
+<picture>https://images.prom.ua/7291616470_w1280_h640_paroochistitel-parogenerator-hanert-sauber.jpg</picture>
+<picture>https://images.prom.ua/7291616474_w1280_h640_paroochistitel-parogenerator-hanert-sauber.jpg</picture>
+<picture>https://images.prom.ua/7291616500_w1280_h640_paroochistitel-parogenerator-hanert-sauber.jpg</picture>
+<picture>https://images.prom.ua/7291616498_w1280_h640_paroochistitel-parogenerator-hanert-sauber.jpg</picture>
+<picture>https://images.prom.ua/7291616491_w1280_h640_paroochistitel-parogenerator-hanert-sauber.jpg</picture>
+<picture>https://images.prom.ua/7291616490_w1280_h640_paroochistitel-parogenerator-hanert-sauber.jpg</picture>
+<picture>https://images.prom.ua/7291616499_w1280_h640_paroochistitel-parogenerator-hanert-sauber.jpg</picture>
+<vendor>Без бренда</vendor>
+<article>5027</article>
+<stock_quantity>100</stock_quantity>
+<name>Пароочиститель Hanert Sauber 2000W 4 бар бак 1.6 л с насадками для пола и регулировкой пара белый</name>
+<name_ua>Пароочисник Hanert Sauber 2000W 4 бар бак 1.6 л з насадками для підлоги та регулюванням пари білий</name_ua>
+<description><![CDATA[<div>
+<div><span><strong>Пароочиститель Hanert Sauber 2000W (4 бар, 1.6 л)</strong></span></div>
+</div>
+<p>Современный <strong>пароочиститель Hanert Sauber</strong> спроектирован для гигиенической уборки жилых помещений без применения бытовой химии. Благодаря резервуару емкостью <strong>1.6 л</strong> устройство подходит для продолжительных рабочих циклов без частого долива жидкости. Модель уничтожает бактерии и аллергены с помощью высокотемпературной обработки. Пользователь может самостоятельно настраивать интенсивность выхода струи благодаря системе регулировки подачи пара. Это универсальный помощник, готовый к использованию уже через несколько минут после подключения к сети 220 В.</p>
+<p>Устройство предназначено для глубокой термической очистки и дезинфекции твердых и мягких поверхностей в бытовых условиях. Оно разработано для эффективного удаления жира, грязи, уничтожения вредных микроорганизмов и аллергенов. Модель подойдет владельцам квартир и частных домов, стремящимся поддерживать чистоту без использования агрессивной химии.</p>
+<span><strong>Особенности</strong></span>
+<ul>
+<li><strong>Мощность 2000 Вт</strong> — обеспечивает стабильную рабочую температуру и постоянное давление.</li>
+<li><strong>Быстрый нагрев 5–6 мин</strong> — сокращает время ожидания готовности прибора к работе.</li>
+<li><strong>Бак объемом 1.6 л</strong> — обеспечивает рабочий объем 1.5 л для длительного непрерывного цикла.</li>
+<li><strong>Регулировка расхода пара</strong> — позволяет контролировать силу паровой струи под конкретные задачи.</li>
+<li><strong>Очистка без химии</strong> — нейтрализует бактерии и удаляет загрязнения только силой горячего пара.</li>
+<li><strong>Сертификация CE</strong> — подтверждает соответствие электроприбора строгим европейским нормам.</li>
+</ul>
+<span><strong>Характеристики</strong></span>
+<ul>
+<li><strong>Бренд:</strong> Hanert</li>
+<li><strong>Модель:</strong> Sauber 2000W</li>
+<li><strong>Тип:</strong> Пароочиститель</li>
+<li><strong>Потребляемая мощность:</strong> 2000 Вт</li>
+<li><strong>Максимальное давление пара:</strong> 4 бар</li>
+<li><strong>Общий объем бака:</strong> 1.6 л</li>
+<li><strong>Рабочий объем бака:</strong> 1.5 л</li>
+<li><strong>Время нагрева:</strong> 5–6 мин</li>
+<li><strong>Напряжение питания:</strong> 220–240 В, 50/60 Гц</li>
+<li><strong>Класс изоляции:</strong> I</li>
+<li><strong>Сертификация:</strong> CE</li>
+<li><strong>Цвет:</strong> Белый</li>
+</ul>
+<span><strong>Для чего подходит</strong></span>
+<ul>
+<li><strong>Удаление грязи и жира</strong> на кухонных поверхностях и технике.</li>
+<li><strong>Очистка напольных покрытий</strong> с помощью комплектных насадок.</li>
+<li><strong>Гигиеническая дезинфекция</strong> разнообразных бытовых предметов и текстиля.</li>
+<li><strong>Устранение аллергенов и бактерий</strong> за счет термической обработки паром под давлением.</li>
+</ul>
+<span><strong>Комплектация</strong></span>
+<ul>
+<li>Пароочиститель Sauber</li>
+<li>Насадки для пола</li>
+<li>Набор аксессуаров</li>
+<li>Инструкция</li>
+<li>Упаковка</li>
+</ul>]]></description>
+<description_ua><![CDATA[<div>
+<div><span><strong>Пароочисник Hanert Sauber 2000W (4 бар, 1.6 л)</strong></span></div>
+</div>
+<p>Сучасний <strong>пароочисник Hanert Sauber</strong> спроєктований для гігієнічного прибирання житлових приміщень без застосування побутової хімії. Завдяки резервуару місткістю <strong>1.6 л</strong> пристрій підходить для тривалих робочих циклів без частого доливання рідини. Модель знищує бактерії та алергени за допомогою високотемпературної обробки. Користувач може самостійно налаштовувати інтенсивність виходу струменя завдяки системі регулювання подачі пари. Це універсальний помічник, готовий до використання вже через кілька хвилин після підключення до мережі 220 В.</p>
+<p>Пристрій призначений для глибокого термічного очищення та дезінфекції твердих і м'яких поверхонь у побутових умовах. Він розроблений для ефективного видалення жиру, бруду, знищення шкідливих мікроорганізмів та алергенів. Модель підійде власникам квартир і приватних будинків, які прагнуть підтримувати чистоту без використання агресивної хімії.</p>
+<span><strong>Особливості</strong></span>
+<ul>
+<li><strong>Потужність 2000 Вт</strong> — забезпечує стабільну робочу температуру та постійний тиск.</li>
+<li><strong>Швидкий нагрів 5–6 хв</strong> — скорочує час очікування готовності приладу до роботи.</li>
+<li><strong>Бак об'ємом 1.6 л</strong> — забезпечує робочий об'єм 1.5 л для тривалого безперервного циклу.</li>
+<li><strong>Регулювання витрати пари</strong> — дозволяє контролювати силу парового струменя під конкретні завдання.</li>
+<li><strong>Очищення без хімії</strong> — нейтралізує бактерії та видаляє забруднення лише силою гарячої пари.</li>
+<li><strong>Сертифікація CE</strong> — підтверджує відповідність електроприладу суворим європейським нормам.</li>
+</ul>
+<span><strong>Характеристики</strong></span>
+<ul>
+<li><strong>Бренд:</strong> Hanert</li>
+<li><strong>Модель:</strong> Sauber 2000W</li>
+<li><strong>Тип:</strong> Пароочисник</li>
+<li><strong>Споживана потужність:</strong> 2000 Вт</li>
+<li><strong>Максимальний тиск пари:</strong> 4 бар</li>
+<li><strong>Загальний об'єм бака:</strong> 1.6 л</li>
+<li><strong>Робочий об'єм бака:</strong> 1.5 л</li>
+<li><strong>Час нагрівання:</strong> 5–6 хв</li>
+<li><strong>Напруга живлення:</strong> 220–240 В, 50/60 Гц</li>
+<li><strong>Клас ізоляції:</strong> I</li>
+<li><strong>Сертифікація:</strong> CE</li>
+<li><strong>Колір:</strong> Білий</li>
+</ul>
+<span><strong>Для чого підходить</strong></span>
+<ul>
+<li><strong>Видалення бруду й жиру</strong> на кухонних поверхнях і техніці.</li>
+<li><strong>Очищення підлогових покриттів</strong> за допомогою комплектних насадок.</li>
+<li><strong>Гігієнічна дезінфекція</strong> різноманітних побутових предметів та текстилю.</li>
+<li><strong>Усунення алергенів і бактерій</strong> за рахунок термічної обробки парою під тиском.</li>
+</ul>
+<span><strong>Комплектація</strong></span>
+<ul>
+<li>Пароочисник Sauber</li>
+<li>Насадки для підлоги</li>
+<li>Набір аксесуарів</li>
+<li>Інструкція</li>
+<li>Упаковка</li>
+</ul>]]></description_ua>
+<param name="Виробник">Hanert</param>
+<param name="Максимальний тиск пари">4 бар</param>
+<param name="Напруга">220 В</param>
+<param name="Колір">Білий</param>
+<param name="Споживана потужність">2000 Вт</param>
+<param name="Тип">Пароочисник</param>
+<param name="Бренд">Hanert</param>
+<param name="Особливості">Регулювання витрати пари</param>
+<param name="Насадки та щітки">Для підлоги</param>
+<param name="Функції">Регулювання витрати пари</param>
+<param name="Регулювання сили пара">Так</param>
+<param name="Ємність резервуара">1.6 л</param>
+<param name="Тиск">4 Бар</param>
+<param name="Час нагріву до утворення пари">5 хв</param>
+<param name="Робочий об'єм бака">1.5 л</param>
+<param name="Клас ізоляції">I</param>
+<param name="Сертифікація">CE</param>
+</offer>
 </offers>
 </shop>
 </yml_catalog>
