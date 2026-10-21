@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-10-21 04:59">
+<yml_catalog date="2026-10-21 05:01">
 <shop>
 <name>Еловсубмарин</name>
 <currencies><currency id="UAH" rate="1"/></currencies>
@@ -20,7 +20,7 @@
 <picture>https://images.prom.ua/5584326711_w1280_h640_robot-pylesos-sokany-sk13017w.jpg</picture>
 <picture>https://images.prom.ua/6899279464_w1280_h640_robot-pylesos-sokany-sk13017w.jpg</picture>
 <vendor>Sokany</vendor>
-<article>ttdLug_SK13017W</article>
+<article>SK13017W</article>
 <stock_quantity>100</stock_quantity>
 <name>Робот-пылесос Sokany SK13017W 2000 Вт низкий профиль 6 см Li-Ion с пультом ДУ и HEPA-фильтром белый для сухой уборки</name>
 <name_ua>Робот-пилосос Sokany SK13017W 2000 Вт низький профіль 6 см Li-Ion з пультом ДК та HEPA-фільтром білий для сухого прибирання</name_ua>
@@ -116,7 +116,6 @@
 <li>Щітка для очищення фільтра</li>
 <li>Контейнер для пилу з HEPA-фільтром</li>
 </ul>]]></description_ua>
-<param name="Prom Гарантія">12 місяців</param>
 <param name="Гарантійний термін">3 міс</param>
 <param name="Тип акумулятора">Li-Ion</param>
 <param name="Кількість щіток">2 шт.</param>
