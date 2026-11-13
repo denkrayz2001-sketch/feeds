@@ -19126,7 +19126,7 @@
 <param name="Захист від перегріву">280 °C</param>
 <param name="Розміри">460 × 250 × 310 мм</param>
 </offer>
-<offer id="rzbc40236d287fed" available="true">
+<offer id="rzbc40236d287fed" available="false">
 <price>1529</price>
 <price_old>1700</price_old>
 <currencyId>UAH</currencyId>
@@ -19142,7 +19142,7 @@
 <picture>https://content2.rozetka.com.ua/goods/images/original/672129275.jpg</picture>
 <vendor>Krafftec</vendor>
 <article>22222Top</article>
-<stock_quantity>100</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <name>Аккумуляторный триммер Krafftec AZ-144 550 Вт 42V</name>
 <name_ua>Акумуляторний тример Krafftec AZ-144 550 Вт 42V</name_ua>
 <description><![CDATA[<div>
