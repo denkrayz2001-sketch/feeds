@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-13 02:25">
+<yml_catalog date="2026-11-13 04:49">
 <shop>
 <name>Мидория</name>
 <currencies><currency id="UAH" rate="1"/></currencies>
@@ -19559,7 +19559,7 @@
 <param name="Матеріал корпусу">метал, пластик</param>
 <param name="Колір (детально)">бірюзовий, чорний</param>
 </offer>
-<offer id="rz02f0dc83b47278" available="true">
+<offer id="rz02f0dc83b47278" available="false">
 <price>1507</price>
 <price_old>1700</price_old>
 <currencyId>UAH</currencyId>
@@ -19571,7 +19571,7 @@
 <picture>https://opt-drop.com/storage/products/solnechnaia-zariadnaia-stantsyia-led-fonar-gd-gd206-portatyvnaia-systema-osveshchenyia-akkumuliatornyi-svetylnyk-30086532686448_02800040c5.png</picture>
 <vendor>Без бренда</vendor>
 <article>G11040</article>
-<stock_quantity>100</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <name>Солнечная зарядная станция GDTIMES GD-206 200 Вт 40000 мАч с фонарём COB панелью 4 выносными LED лампами кабели 5 м FM радио Bluetooth USB 5 В 2 А TF слотом индикатором заряда для дома дачи кемпинга во время отключений света</name>
 <name_ua>Сонячна зарядна станція GDTIMES GD-206 200 Вт 40000 мАг з ліхтарем COB панеллю 4 виносними LED лампами кабелі 5 м FM радіо Bluetooth USB 5 В 2 А TF слотом індикатором заряду для дому дачі кемпінгу під час відключень світла</name_ua>
 <description><![CDATA[<div>
