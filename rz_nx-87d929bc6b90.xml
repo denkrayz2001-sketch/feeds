@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-13 15:35">
+<yml_catalog date="2026-11-13 23:06">
 <shop>
 <name>Nexura</name>
 <currencies><currency id="UAH" rate="1"/></currencies>
@@ -8058,7 +8058,7 @@
 <param name="Гіпоалергенний">Так</param>
 <param name="Некомедогенно">Так</param>
 </offer>
-<offer id="rzd8d8723844ce58" available="false">
+<offer id="rzd8d8723844ce58" available="true">
 <price>8280</price>
 <price_old>9500</price_old>
 <currencyId>UAH</currencyId>
@@ -8069,7 +8069,7 @@
 <picture>https://images.prom.ua/7738073205_w1280_h640_avtonomnyj-dizelnyj-obogrevatel.jpg</picture>
 <vendor>Без бренда</vendor>
 <article>RD-65046</article>
-<stock_quantity>0</stock_quantity>
+<stock_quantity>100</stock_quantity>
 <name>Автономный дизельный обогреватель RD-65046 5 кВт 12/24/220 В со встроенным баком LCD-дисплеем пультом дистанционного управления и 4 выходами для гаража мастерской кабины автомобиля кемпера</name>
 <name_ua>Автономний дизельний обігрівач RD-65046 5 кВт 12/24/220 В з вбудованим баком LCD-дисплеєм пультом дистанційного керування та 4 виходами для гаража майстерні кабіни автомобіля кемпера</name_ua>
 <description><![CDATA[<div>
