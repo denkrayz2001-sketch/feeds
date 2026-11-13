@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-13 14:51">
+<yml_catalog date="2026-11-13 14:52">
 <shop>
 <name>Мидория</name>
 <currencies><currency id="UAH" rate="1"/></currencies>
@@ -39809,7 +39809,7 @@
 <param name="Ширина стрічки">76 мм</param>
 <param name="Швидкість руху стрічки">120-300 м/хв</param>
 </offer>
-<offer id="rz68660e4181ca78" available="true">
+<offer id="rz68660e4181ca78" available="false">
 <price>2890</price>
 <price_old>3200</price_old>
 <currencyId>UAH</currencyId>
@@ -39825,7 +39825,7 @@
 <picture>https://content2.rozetka.com.ua/goods/images/original/685101000.jpg</picture>
 <vendor>Mächtz</vendor>
 <article>KW11040O24Top</article>
-<stock_quantity>100</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <name>Гравер Mächtz MMG-310 310 Вт 8000–35000 об/мин с плавной электронной регулировкой оборотов цангой 3.2 мм гибким валом дополнительной рукояткой комплектом из 120 насадок в кейсе для обработки металла и дерева</name>
 <name_ua>Гравер Mächtz MMG-310 310 Вт 8000–35000 об/хв з плавною електронною регулюванням обертів цангою 3.2 мм гнучким валом додатковою рукояткою комплектом із 120 насадок у кейсі для обробки металу та дерева</name_ua>
 <description><![CDATA[<div>
