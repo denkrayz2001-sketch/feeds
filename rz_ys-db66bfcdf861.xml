@@ -11030,7 +11030,7 @@
 <param name="Основні інгредієнти">Гіалуронова кислота</param>
 <param name="Активні компоненти">PDRN (5000 ppm), пантенол, центела, EGF, гіалуронова кислота</param>
 </offer>
-<offer id="rz67aac238c2768c" available="true">
+<offer id="rz67aac238c2768c" available="false">
 <price>2879</price>
 <price_old>3200</price_old>
 <currencyId>UAH</currencyId>
@@ -11047,7 +11047,7 @@
 <picture>https://content2.rozetka.com.ua/goods/images/original/686544056.png</picture>
 <vendor>Без бренда</vendor>
 <article>W14STop</article>
-<stock_quantity>100</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <name>Робот для мойки окон W14S 80 Вт с пультом ДУ</name>
 <name_ua>Робот для миття вікон W14S 80 Вт з пультом ДК</name_ua>
 <description><![CDATA[<div>
