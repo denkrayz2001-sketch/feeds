@@ -22102,7 +22102,7 @@
 <param name="Масажна поверхня">8 металевих кульок</param>
 <param name="Автоматичне відключення">через 20 хвилин</param>
 </offer>
-<offer id="rz6bb5e81f86ae1e" available="true">
+<offer id="rz6bb5e81f86ae1e" available="false">
 <price>1693</price>
 <price_old>1900</price_old>
 <currencyId>UAH</currencyId>
@@ -22114,7 +22114,7 @@
 <picture>https://opt-drop.com/storage/products/73398196028996_1ecbaaae76.png</picture>
 <vendor>Jikaboda</vendor>
 <article>VEN-2050</article>
-<stock_quantity>100</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <name>Портативная угольная печь Jikaboda VEN-2050 металлическая переносная черная с ручками и ножками для дачи кемпинга отдыха на природе двора приготовления еды в кастрюлях и казанах без газа и электричества</name>
 <name_ua>Портативна вугільна піч Jikaboda VEN-2050 металева переносная чорна з ручками та ніжками для дачі кемпінгу відпочинку на природі двору приготування їжі в каструлях і казанах без газу та електрики</name_ua>
 <description><![CDATA[<div>
