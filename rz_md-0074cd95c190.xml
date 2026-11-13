@@ -25400,7 +25400,7 @@
 <param name="Тип дисплея">Цифровий LED</param>
 <param name="Одиниці виміру тиску">PSI, BAR, KPA, кг/см²</param>
 </offer>
-<offer id="rz97eb992c2b63ba" available="true">
+<offer id="rz97eb992c2b63ba" available="false">
 <price>1262</price>
 <price_old>1400</price_old>
 <currencyId>UAH</currencyId>
@@ -25412,7 +25412,7 @@
 <picture>https://opt-drop.com/storage/products/copy_akkumuliatornaia-kolonka-s-rgb-podsvetkoi-portatyvnaia-kolonka-ubl-partybox-36525777669125_853e7fec3b.png</picture>
 <vendor>Без бренда</vendor>
 <article>VEN-1942</article>
-<stock_quantity>100</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <name>Настольная Bluetooth-колонка ECHQ Spot черная VEN-1942</name>
 <name_ua>Настільна Bluetooth-колонка ECHQ Spot чорна VEN-1942</name_ua>
 <description><![CDATA[<div>
