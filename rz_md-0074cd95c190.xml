@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-13 15:39">
+<yml_catalog date="2026-11-13 15:40">
 <shop>
 <name>Мидория</name>
 <currencies><currency id="UAH" rate="1"/></currencies>
@@ -24215,7 +24215,7 @@
 <param name="Колір">Чорний</param>
 <param name="Довжина леза">20 см</param>
 </offer>
-<offer id="rz6054de2809a251" available="true">
+<offer id="rz6054de2809a251" available="false">
 <price>904</price>
 <price_old>1000</price_old>
 <currencyId>UAH</currencyId>
@@ -24223,7 +24223,7 @@
 <picture>https://opt-drop.com/storage/products/5523f694-3942-4c76-a013-97f56908d278.png</picture>
 <vendor>Без бренда</vendor>
 <article>sp84938494/6</article>
-<stock_quantity>100</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <name>Толстовка-плед Huggle Hoodie флисовая с капюшоном и искусственным мехом двусторонняя фиолетовая 80х100 см для дома и отдыха на природе с большим карманом весом 1 кг которая подходит для машинной стирки и обеспечивает комфортное тепло взрослым и детям</name>
 <name_ua>Толстовка-плед Huggle Hoodie флісова з капюшоном та штучним хутром двостороння фіолетова 80х100 см для дому та відпочинку на природі з великою кишенею вагою 1 кг яка підходить для машинного прання та забезпечує комфортне тепло дорослим і дітям</name_ua>
 <description><![CDATA[<div>
