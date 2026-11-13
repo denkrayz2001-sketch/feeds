@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-13 22:40">
+<yml_catalog date="2026-11-13 22:49">
 <shop>
 <name>Мидория</name>
 <currencies><currency id="UAH" rate="1"/></currencies>
@@ -21460,7 +21460,7 @@
 <param name="Глибина">24 см</param>
 <param name="Висота">39 см</param>
 </offer>
-<offer id="rzf5109856b065bd" available="false">
+<offer id="rzf5109856b065bd" available="true">
 <price>754</price>
 <price_old>850</price_old>
 <currencyId>UAH</currencyId>
@@ -21473,7 +21473,7 @@
 <picture>https://opt-drop.com/storage/products/12858831464782_69780a26ab.png</picture>
 <vendor>Без бренда</vendor>
 <article>VEN-2010</article>
-<stock_quantity>0</stock_quantity>
+<stock_quantity>100</stock_quantity>
 <name>Набор RGB LED светильников KBB-3A 42 см 2 шт с пультом дистанционного управления Bluetooth музыкальной подсветкой 19 режимами таймером USB питанием для спальни гостиной игровой комнаты рабочего места хай-тек дизайн</name>
 <name_ua>Набір RGB LED світильників KBB-3A 42 см 2 шт з пультом дистанційного керування Bluetooth музичною підсвіткою 19 режимами таймером USB живленням для спальні вітальні ігрової кімнати робочого місця хай-тек дизайн</name_ua>
 <description><![CDATA[<div>
@@ -21847,7 +21847,7 @@
 <param name="Вихід USB 2-4">5V-2A (макс)</param>
 <param name="Тип ліхтарика">Вбудований LED</param>
 </offer>
-<offer id="rzcd63798478a1de" available="false">
+<offer id="rzcd63798478a1de" available="true">
 <price>1475</price>
 <price_old>1700</price_old>
 <currencyId>UAH</currencyId>
@@ -21861,7 +21861,7 @@
 <picture>https://opt-drop.com/storage/products/15705520374905_0c66e9b3df.png</picture>
 <vendor>Без бренда</vendor>
 <article>VEN-2026</article>
-<stock_quantity>0</stock_quantity>
+<stock_quantity>100</stock_quantity>
 <name>Обогреватель NSB-160 электрический мощностью 1600 Вт с кварцевым элементом управления механического типа красного цвета для бытового применения с напольной и настольной установкой металлическим корпусом и защитной решеткой</name>
 <name_ua>Обігрівач NSB-160 електричний потужністю 1600 Вт з кварцовим елементом управління механічного типу червоного кольору для побутового застосування з підлоговою та настільною установкою металевим корпусом і захисною решіткою</name_ua>
 <description><![CDATA[<div>
@@ -22102,7 +22102,7 @@
 <param name="Масажна поверхня">8 металевих кульок</param>
 <param name="Автоматичне відключення">через 20 хвилин</param>
 </offer>
-<offer id="rz6bb5e81f86ae1e" available="false">
+<offer id="rz6bb5e81f86ae1e" available="true">
 <price>1693</price>
 <price_old>1900</price_old>
 <currencyId>UAH</currencyId>
@@ -22114,7 +22114,7 @@
 <picture>https://opt-drop.com/storage/products/73398196028996_1ecbaaae76.png</picture>
 <vendor>Jikaboda</vendor>
 <article>VEN-2050</article>
-<stock_quantity>0</stock_quantity>
+<stock_quantity>100</stock_quantity>
 <name>Портативная угольная печь Jikaboda VEN-2050 металлическая переносная черная с ручками и ножками для дачи кемпинга отдыха на природе двора приготовления еды в кастрюлях и казанах без газа и электричества</name>
 <name_ua>Портативна вугільна піч Jikaboda VEN-2050 металева переносная чорна з ручками та ніжками для дачі кемпінгу відпочинку на природі двору приготування їжі в каструлях і казанах без газу та електрики</name_ua>
 <description><![CDATA[<div>
@@ -25400,7 +25400,7 @@
 <param name="Тип дисплея">Цифровий LED</param>
 <param name="Одиниці виміру тиску">PSI, BAR, KPA, кг/см²</param>
 </offer>
-<offer id="rz97eb992c2b63ba" available="false">
+<offer id="rz97eb992c2b63ba" available="true">
 <price>1262</price>
 <price_old>1400</price_old>
 <currencyId>UAH</currencyId>
@@ -25412,7 +25412,7 @@
 <picture>https://opt-drop.com/storage/products/copy_akkumuliatornaia-kolonka-s-rgb-podsvetkoi-portatyvnaia-kolonka-ubl-partybox-36525777669125_853e7fec3b.png</picture>
 <vendor>Без бренда</vendor>
 <article>VEN-1942</article>
-<stock_quantity>0</stock_quantity>
+<stock_quantity>100</stock_quantity>
 <name>Настольная Bluetooth-колонка ECHQ Spot черная VEN-1942</name>
 <name_ua>Настільна Bluetooth-колонка ECHQ Spot чорна VEN-1942</name_ua>
 <description><![CDATA[<div>
@@ -47322,7 +47322,7 @@
 <param name="Струм холостого ходу">0.6 А</param>
 <param name="USB-вихід">5 В / 500 мА</param>
 </offer>
-<offer id="rz46c634dbfb7398" available="false">
+<offer id="rz46c634dbfb7398" available="true">
 <price>2653</price>
 <price_old>3000</price_old>
 <currencyId>UAH</currencyId>
@@ -47334,7 +47334,7 @@
 <picture>https://opt-drop.com/storage/products/99159356635779_1e817f66fb.png</picture>
 <vendor>Bester</vendor>
 <article>VEN-2046</article>
-<stock_quantity>0</stock_quantity>
+<stock_quantity>100</stock_quantity>
 <name>Кварцевый обогреватель Bester QT200B 2000 Вт напольный черный с золотистым</name>
 <name_ua>Кварцовий обігрівач Bester QT200B 2000 Вт підлоговий чорний із золотистим</name_ua>
 <description><![CDATA[<div>
@@ -47443,7 +47443,7 @@
 <param name="Кількість сторін нагріву">5 шт</param>
 <param name="Нагрівальний елемент">Кварцовий</param>
 </offer>
-<offer id="rz756a85862b5216" available="false">
+<offer id="rz756a85862b5216" available="true">
 <price>1010</price>
 <price_old>1200</price_old>
 <currencyId>UAH</currencyId>
@@ -47454,7 +47454,7 @@
 <picture>https://opt-drop.com/storage/products/copy_zashchytnyi-tent-dlia-mototsykla-y-skutera-vodonepronytsaemyi-vsesezonnyi-chekhol-29127579607191_6f610a11c4.png</picture>
 <vendor>Без бренда</vendor>
 <article>VEN-1939/1</article>
-<stock_quantity>0</stock_quantity>
+<stock_quantity>100</stock_quantity>
 <name>Защитный тент для мотоцикла и скутера L черный Oxford водонепроницаемый всесезонный чехол со светоотражающими полосами отверстиями для замка и фиксирующими ремнями для хранения на улице и в гараже</name>
 <name_ua>Захисний тент для мотоцикла та скутера L чорний Oxford водонепроникний всесезонний чохол зі світловідбиваючими смугами отворами для замка та фіксуючими ременями для зберігання на вулиці та в гаражі</name_ua>
 <description><![CDATA[<div>
@@ -47549,7 +47549,7 @@
 <param name="Кількість світловідбиваючих смуг">5 шт</param>
 <param name="Отвори для замка">2 шт</param>
 </offer>
-<offer id="rzaa76c4149c591f" available="false">
+<offer id="rzaa76c4149c591f" available="true">
 <price>1005</price>
 <price_old>1200</price_old>
 <currencyId>UAH</currencyId>
@@ -47562,7 +47562,7 @@
 <picture>https://opt-drop.com/storage/products/avtomobylnyi-skladnoi-orhanaizer-v-bahazhnyk-l-sumka-yz-ekokozhy-dlia-avto-96797612811787_233dc3ebce.png</picture>
 <vendor>Без бренда</vendor>
 <article>VEN-1935/2</article>
-<stock_quantity>0</stock_quantity>
+<stock_quantity>100</stock_quantity>
 <name>Автомобильный органайзер в багажник размер L черный складной разборный экокожа с армированной нитью стеганая поверхность водоотталкивающие свойства внутренние перегородки крышка ручка для переноски для хранения вещей</name>
 <name_ua>Автомобільний органайзер в багажник розмір L чорний складний розбірний екошкіра з армованою ниткою стібана поверхня водовідштовхувальні властивості внутрішні перегородки кришка ручка для перенесення для зберігання речей</name_ua>
 <description><![CDATA[<div>
