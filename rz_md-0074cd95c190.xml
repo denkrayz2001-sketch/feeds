@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-12 14:34">
+<yml_catalog date="2026-11-13 02:25">
 <shop>
 <name>Мидория</name>
 <currencies><currency id="UAH" rate="1"/></currencies>
@@ -43882,7 +43882,7 @@
 <param name="Матеріал леза">Нержавіюча сталь 304</param>
 <param name="Функції">Соковижималка, подрібнювач м'яса, подрібнювач бобових</param>
 </offer>
-<offer id="rz0395d2cd8aac81" available="true">
+<offer id="rz0395d2cd8aac81" available="false">
 <price>1040</price>
 <price_old>1200</price_old>
 <currencyId>UAH</currencyId>
@@ -43893,7 +43893,7 @@
 <picture>https://content.rozetka.com.ua/goods/images/original/676789322.jpg</picture>
 <vendor>Alfarid</vendor>
 <article>6772Top</article>
-<stock_quantity>100</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <name>Вентилятор Alfarid 6772 3в1 100 Вт 45 см черный 6772</name>
 <name_ua>Вентилятор Alfarid 6772 3в1 100 Вт 45 см чорний 6772</name_ua>
 <description><![CDATA[<div>
