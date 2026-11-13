@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-13 15:35">
+<yml_catalog date="2026-11-13 15:39">
 <shop>
 <name>Мидория</name>
 <currencies><currency id="UAH" rate="1"/></currencies>
@@ -23257,7 +23257,7 @@
 <param name="Функція відновлення">Імпульсний режим Repair</param>
 <param name="Керування">Кнопки на корпусі</param>
 </offer>
-<offer id="rz5362fd34ea8f2b" available="true">
+<offer id="rz5362fd34ea8f2b" available="false">
 <price>1565</price>
 <price_old>1800</price_old>
 <currencyId>UAH</currencyId>
@@ -23268,7 +23268,7 @@
 <picture>https://opt-drop.com/storage/products/ulychnyi-fonar-jve-2-svetylnyk-greeelite-1350w-led-prozhektor-s-datchykom-dvyzhenyia-32379696713487_a92f8370a0.png</picture>
 <vendor>Без бренда</vendor>
 <article>sp10805</article>
-<stock_quantity>100</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <name>Уличный фонарь JVE-2 светодиодный 1350 Вт аккумулятор солнечная панель датчик движения пульт 18 секций таймер 4 6 часов наружное освещение двора фасадов парковок гаражей с автоматическим режимом работы</name>
 <name_ua>Вуличний ліхтар JVE-2 світлодіодний 1350 Вт акумулятор сонячна панель датчик руху пульт 18 секцій таймер 4 6 годин зовнішнє освітлення двору фасадів парковок гаражів з автоматичним режимом роботи</name_ua>
 <description><![CDATA[<div>
