@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-13 15:40">
+<yml_catalog date="2026-11-13 15:53">
 <shop>
 <name>Мидория</name>
 <currencies><currency id="UAH" rate="1"/></currencies>
@@ -44650,7 +44650,7 @@
 <param name="Колір">Чорний</param>
 <param name="Кількість режимів роботи">3</param>
 </offer>
-<offer id="rz57ab77825991a0" available="true">
+<offer id="rz57ab77825991a0" available="false">
 <price>779</price>
 <price_old>900</price_old>
 <currencyId>UAH</currencyId>
@@ -44661,7 +44661,7 @@
 <picture>https://content1.rozetka.com.ua/goods/images/original/676789325.jpg</picture>
 <vendor>Alfarid</vendor>
 <article>НФ-00001672Top</article>
-<stock_quantity>100</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <name>Вентилятор напольный Alfarid 45 см синий НФ-00001672</name>
 <name_ua>Вентилятор підлоговий Alfarid 45 см синій НФ-00001672</name_ua>
 <description><![CDATA[<div>
