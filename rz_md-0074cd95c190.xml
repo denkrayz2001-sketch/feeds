@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-13 22:58">
+<yml_catalog date="2026-11-13 23:06">
 <shop>
 <name>Мидория</name>
 <currencies><currency id="UAH" rate="1"/></currencies>
@@ -12712,7 +12712,7 @@
 <param name="Робоча температура">від –50 °C до +50 °C</param>
 <param name="Рекомендована площа обігріву">20–25 м²</param>
 </offer>
-<offer id="rzd8d8723844ce58" available="false">
+<offer id="rzd8d8723844ce58" available="true">
 <price>8280</price>
 <price_old>9500</price_old>
 <currencyId>UAH</currencyId>
@@ -12723,7 +12723,7 @@
 <picture>https://images.prom.ua/7738073206_w1280_h640_avtonomnyj-dizelnyj-obogrevatel.jpg</picture>
 <vendor>Без бренда</vendor>
 <article>RD-65046Top</article>
-<stock_quantity>0</stock_quantity>
+<stock_quantity>100</stock_quantity>
 <name>Автономный дизельный обогреватель Webasto RD-65046 5 кВт 12/24/220 В воздушный переносной с LCD дисплеем 4 выходами и пультом ДУ для гаража авто и бытовок</name>
 <name_ua>Автономний дизельний обігрівач Webasto RD-65046 5 кВт 12/24/220 В повітряний переносний з LCD дисплеєм 4 виходами та пультом ДУ для гаража авто та побутівок</name_ua>
 <description><![CDATA[<div>
@@ -23257,7 +23257,7 @@
 <param name="Функція відновлення">Імпульсний режим Repair</param>
 <param name="Керування">Кнопки на корпусі</param>
 </offer>
-<offer id="rz5362fd34ea8f2b" available="false">
+<offer id="rz5362fd34ea8f2b" available="true">
 <price>1565</price>
 <price_old>1800</price_old>
 <currencyId>UAH</currencyId>
@@ -23268,7 +23268,7 @@
 <picture>https://opt-drop.com/storage/products/ulychnyi-fonar-jve-2-svetylnyk-greeelite-1350w-led-prozhektor-s-datchykom-dvyzhenyia-32379696713487_a92f8370a0.png</picture>
 <vendor>Без бренда</vendor>
 <article>sp10805</article>
-<stock_quantity>0</stock_quantity>
+<stock_quantity>100</stock_quantity>
 <name>Уличный фонарь JVE-2 светодиодный 1350 Вт аккумулятор солнечная панель датчик движения пульт 18 секций таймер 4 6 часов наружное освещение двора фасадов парковок гаражей с автоматическим режимом работы</name>
 <name_ua>Вуличний ліхтар JVE-2 світлодіодний 1350 Вт акумулятор сонячна панель датчик руху пульт 18 секцій таймер 4 6 годин зовнішнє освітлення двору фасадів парковок гаражів з автоматичним режимом роботи</name_ua>
 <description><![CDATA[<div>
@@ -24215,7 +24215,7 @@
 <param name="Колір">Чорний</param>
 <param name="Довжина леза">20 см</param>
 </offer>
-<offer id="rz6054de2809a251" available="false">
+<offer id="rz6054de2809a251" available="true">
 <price>904</price>
 <price_old>1000</price_old>
 <currencyId>UAH</currencyId>
@@ -24223,7 +24223,7 @@
 <picture>https://opt-drop.com/storage/products/5523f694-3942-4c76-a013-97f56908d278.png</picture>
 <vendor>Без бренда</vendor>
 <article>sp84938494/6</article>
-<stock_quantity>0</stock_quantity>
+<stock_quantity>100</stock_quantity>
 <name>Толстовка-плед Huggle Hoodie флисовая с капюшоном и искусственным мехом двусторонняя фиолетовая 80х100 см для дома и отдыха на природе с большим карманом весом 1 кг которая подходит для машинной стирки и обеспечивает комфортное тепло взрослым и детям</name>
 <name_ua>Толстовка-плед Huggle Hoodie флісова з капюшоном та штучним хутром двостороння фіолетова 80х100 см для дому та відпочинку на природі з великою кишенею вагою 1 кг яка підходить для машинного прання та забезпечує комфортне тепло дорослим і дітям</name_ua>
 <description><![CDATA[<div>
@@ -46093,7 +46093,7 @@
 <param name="Матеріал">Метал</param>
 <param name="Кількість рівнів">3</param>
 </offer>
-<offer id="rz95147bffadbb55" available="false">
+<offer id="rz95147bffadbb55" available="true">
 <price>848</price>
 <price_old>950</price_old>
 <currencyId>UAH</currencyId>
@@ -46103,7 +46103,7 @@
 <picture>https://opt-drop.com/storage/products/copy_sverkhprochnaia-lypkaia-lenta-s-aliumynyevym-pokrytyem-5m-aliumynyevaia-vodostoikaia-folha-skotch-butyl-self-adhesive-41653578146574_edb1fe9c56.png</picture>
 <vendor>Без бренда</vendor>
 <article>2051045/4</article>
-<stock_quantity>0</stock_quantity>
+<stock_quantity>100</stock_quantity>
 <name>Самоклеящаяся алюминиевая лента BUTYL SELF-ADHESIVE 50 мм 5000 мм 1 мм серебристый армированная бутиловая фольга гидроизоляция герметик для ремонта кровли стыков труб вентиляции снаружи и внутри</name>
 <name_ua>Самоклеюча алюмінієва стрічка BUTYL SELF-ADHESIVE 50 мм 5000 мм 1 мм сріблястий армована бутилкова фольга гідроізоляція герметик для ремонту покрівлі стиків труб вентиляціїзовні та всередині</name_ua>
 <description><![CDATA[<div>
@@ -47766,7 +47766,7 @@
 <param name="Матеріал">Екошкіра</param>
 <param name="Особливості">Армована нитка, складана конструкція</param>
 </offer>
-<offer id="rza40554bec6937d" available="false">
+<offer id="rza40554bec6937d" available="true">
 <price>3240</price>
 <price_old>4000</price_old>
 <currencyId>UAH</currencyId>
@@ -47777,7 +47777,7 @@
 <picture>https://opt-drop.com/storage/products/ynvertor-napriazhenyia-s-funktsyei-zariadky-power-inverter-12v-220v-1500w-avtomobylnyi-preobrazovatel-napriazhenyia-82907678522279_f717e8d3da.png</picture>
 <vendor>Power Inverter</vendor>
 <article>224inverter1500w</article>
-<stock_quantity>0</stock_quantity>
+<stock_quantity>100</stock_quantity>
 <name>Инвертор напряжения Power Inverter PowerOne Plus 1500 Вт 12 В 224inverter1500w</name>
 <name_ua>Інвертор напруги Power Inverter PowerOne Plus 1500 Вт 12 В 224inverter1500w</name_ua>
 <description><![CDATA[<div>
