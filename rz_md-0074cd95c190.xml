@@ -47322,7 +47322,7 @@
 <param name="Струм холостого ходу">0.6 А</param>
 <param name="USB-вихід">5 В / 500 мА</param>
 </offer>
-<offer id="rz46c634dbfb7398" available="true">
+<offer id="rz46c634dbfb7398" available="false">
 <price>2653</price>
 <price_old>3000</price_old>
 <currencyId>UAH</currencyId>
@@ -47334,7 +47334,7 @@
 <picture>https://opt-drop.com/storage/products/99159356635779_1e817f66fb.png</picture>
 <vendor>Bester</vendor>
 <article>VEN-2046</article>
-<stock_quantity>100</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <name>Кварцевый обогреватель Bester QT200B 2000 Вт напольный черный с золотистым</name>
 <name_ua>Кварцовий обігрівач Bester QT200B 2000 Вт підлоговий чорний із золотистим</name_ua>
 <description><![CDATA[<div>
