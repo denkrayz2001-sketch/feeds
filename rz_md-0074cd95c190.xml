@@ -38542,7 +38542,7 @@
 <param name="Габарити у розібраному вигляді">65×35×14 см</param>
 <param name="Кількість знімних столиків">2 шт</param>
 </offer>
-<offer id="rz512fff78556e12" available="true">
+<offer id="rz512fff78556e12" available="false">
 <price>3480</price>
 <price_old>4000</price_old>
 <currencyId>UAH</currencyId>
@@ -38558,7 +38558,7 @@
 <picture>https://content.rozetka.com.ua/goods/images/original/678371629.jpg</picture>
 <vendor>Intex</vendor>
 <article>66332Top</article>
-<stock_quantity>100</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <name>Лодка надувная Intex SeaHawk 2 Set 66332 гребная зеленая двухместная с надувным дном</name>
 <name_ua>Човен надувний Intex SeaHawk 2 Set 66332 гребний зелений двомісний з надувним дном</name_ua>
 <description><![CDATA[<div>
