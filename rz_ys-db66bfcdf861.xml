@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-13 15:37">
+<yml_catalog date="2026-11-13 15:38">
 <shop>
 <name>Еловсубмарин</name>
 <currencies><currency id="UAH" rate="1"/></currencies>
@@ -35699,7 +35699,7 @@
 <param name="Особливості колонки">С влагозащитой</param>
 <param name="Підключення пристрою">Бездротове</param>
 </offer>
-<offer id="rz464b9b1d537d64" available="true">
+<offer id="rz464b9b1d537d64" available="false">
 <price>4547</price>
 <price_old>5500</price_old>
 <currencyId>UAH</currencyId>
@@ -35710,7 +35710,7 @@
 <picture>https://opt-drop.com/storage/products/aerofrytiurnytsa-domotec-air-fryer-ms-3226-4800-vt-52525833768432_6f0441c348.jpg</picture>
 <vendor>Domotec</vendor>
 <article>sp10329</article>
-<stock_quantity>100</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <name>Аэрофритюрница Domotec MS-3226 4800 Вт 13 л</name>
 <name_ua>Аерофритюрниця Domotec MS-3226 4800 Вт 13 л</name_ua>
 <description><![CDATA[<div>  <div><span><strong>Аэрофритюрница DOMOTEC 13 л 4800 Вт</strong></span></div>  </div>  <p>Вместительная <strong>аэрофритюрница DOMOTEC</strong> рассчитана на объем <strong>13 л</strong> для сытных порций. Технология циркуляции горячего воздуха позволяет запекать продукты без масла. Рабочий диапазон нагрева составляет от 80 до 200°C. Механический блок настройки обеспечивает точный выбор параметров и времени. Съемные компоненты аппарата легко очищаются после готовки.</p>  <p>Устройство предназначено для обжаривания, запекания и термической обработки продуктов горячим воздухом без добавления масла. Прибор рассчитан на большие семьи благодаря вместительной 13-литровой камере. Аппарат позволяет готовить хрустящие закуски из мяса, птицы и картофеля в бытовых условиях.</p>  <span><strong>Особенности</strong></span>  <ul>  <li><strong>Вместимость 13 л</strong> подходит для готовки больших объемов блюд за один цикл</li>  <li><strong>Мощность 4800 Вт</strong> обеспечивает форсированный нагрев рабочей камеры</li>  <li><strong>Терморегулятор 80–200°C</strong> дает возможность подобрать точный температурный режим</li>  <li><strong>Таймер до 7.6 часов</strong> обеспечивает удобный контроль продолжительности процесса</li>  <li><strong>Комбинированный корпус</strong> из стойкого металла и прочного пластика</li>  </ul>  <span><strong>Характеристики</strong></span>  <ul>  <li><strong>Тип:</strong> Аэрофритюрница</li>  <li><strong>Бренд:</strong> Domotec</li>  <li><strong>Потребляемая мощность:</strong> 4800 Вт</li>  <li><strong>Объем:</strong> 13 л</li>  <li><strong>Тип управления:</strong> Механическое</li>  <li><strong>Температурный диапазон:</strong> 80–200°C</li>  <li><strong>Таймер:</strong> До 7.6 часов</li>  <li><strong>Материал корпуса:</strong> Металл пластик</li>  </ul>  <span><strong>Для чего подходит</strong></span>  <ul>  <li>Жарка блюд без масла горячим воздухом</li>  <li>Приготовление картофеля фри с хрустящей корочкой</li>  <li>Запекание порций мяса и рыбы</li>  <li>Термическая обработка овощей</li>  <li>Готовка для большой семьи</li>  </ul>
