@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-13 14:48">
+<yml_catalog date="2026-11-13 14:51">
 <shop>
 <name>Мидория</name>
 <currencies><currency id="UAH" rate="1"/></currencies>
@@ -36311,7 +36311,7 @@
 <param name="Максимальний діаметр свердління деревини">36 мм</param>
 <param name="Максимальний діаметр свердління металу">13 мм</param>
 </offer>
-<offer id="rzc5c436d8524027" available="true">
+<offer id="rzc5c436d8524027" available="false">
 <price>2770</price>
 <price_old>3100</price_old>
 <currencyId>UAH</currencyId>
@@ -36327,7 +36327,7 @@
 <picture>https://content2.rozetka.com.ua/goods/images/original/685101017.jpg</picture>
 <vendor>Makita</vendor>
 <article>DF330Top</article>
-<stock_quantity>100</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <name>Аккумуляторный шуруповерт Makita DF330 12 В 24 Нм с набором 28 предметов</name>
 <name_ua>Акумуляторний шуруповерт Makita DF330 12 В 24 Нм з набором 28 предметів</name_ua>
 <description><![CDATA[<div>
