@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-13 14:52">
+<yml_catalog date="2026-11-13 15:34">
 <shop>
 <name>Мидория</name>
 <currencies><currency id="UAH" rate="1"/></currencies>
@@ -46093,7 +46093,7 @@
 <param name="Матеріал">Метал</param>
 <param name="Кількість рівнів">3</param>
 </offer>
-<offer id="rz95147bffadbb55" available="true">
+<offer id="rz95147bffadbb55" available="false">
 <price>848</price>
 <price_old>950</price_old>
 <currencyId>UAH</currencyId>
@@ -46103,7 +46103,7 @@
 <picture>https://opt-drop.com/storage/products/copy_sverkhprochnaia-lypkaia-lenta-s-aliumynyevym-pokrytyem-5m-aliumynyevaia-vodostoikaia-folha-skotch-butyl-self-adhesive-41653578146574_edb1fe9c56.png</picture>
 <vendor>Без бренда</vendor>
 <article>2051045/4</article>
-<stock_quantity>100</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <name>Самоклеящаяся алюминиевая лента BUTYL SELF-ADHESIVE 50 мм 5000 мм 1 мм серебристый армированная бутиловая фольга гидроизоляция герметик для ремонта кровли стыков труб вентиляции снаружи и внутри</name>
 <name_ua>Самоклеюча алюмінієва стрічка BUTYL SELF-ADHESIVE 50 мм 5000 мм 1 мм сріблястий армована бутилкова фольга гідроізоляція герметик для ремонту покрівлі стиків труб вентиляціїзовні та всередині</name_ua>
 <description><![CDATA[<div>
