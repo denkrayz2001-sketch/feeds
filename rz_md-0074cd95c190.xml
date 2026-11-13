@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-13 22:39">
+<yml_catalog date="2026-11-13 22:40">
 <shop>
 <name>Мидория</name>
 <currencies><currency id="UAH" rate="1"/></currencies>
@@ -47549,7 +47549,7 @@
 <param name="Кількість світловідбиваючих смуг">5 шт</param>
 <param name="Отвори для замка">2 шт</param>
 </offer>
-<offer id="rzaa76c4149c591f" available="true">
+<offer id="rzaa76c4149c591f" available="false">
 <price>1005</price>
 <price_old>1200</price_old>
 <currencyId>UAH</currencyId>
@@ -47562,7 +47562,7 @@
 <picture>https://opt-drop.com/storage/products/avtomobylnyi-skladnoi-orhanaizer-v-bahazhnyk-l-sumka-yz-ekokozhy-dlia-avto-96797612811787_233dc3ebce.png</picture>
 <vendor>Без бренда</vendor>
 <article>VEN-1935/2</article>
-<stock_quantity>100</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <name>Автомобильный органайзер в багажник размер L черный складной разборный экокожа с армированной нитью стеганая поверхность водоотталкивающие свойства внутренние перегородки крышка ручка для переноски для хранения вещей</name>
 <name_ua>Автомобільний органайзер в багажник розмір L чорний складний розбірний екошкіра з армованою ниткою стібана поверхня водовідштовхувальні властивості внутрішні перегородки кришка ручка для перенесення для зберігання речей</name_ua>
 <description><![CDATA[<div>
@@ -47657,7 +47657,7 @@
 <param name="Тип аксесуара">Сумка-органайзер</param>
 <param name="Матеріал">Екошкіра</param>
 </offer>
-<offer id="rz056da56e9be51e" available="true">
+<offer id="rz056da56e9be51e" available="false">
 <price>977</price>
 <price_old>1100</price_old>
 <currencyId>UAH</currencyId>
@@ -47670,7 +47670,7 @@
 <picture>https://opt-drop.com/storage/products/avtomobylnyi-skladnoi-orhanaizer-v-bahazhnyk-m-sumka-yz-ekokozhy-dlia-avto-64343124886520_8225c412e1.png</picture>
 <vendor>Без бренда</vendor>
 <article>VEN-1935/1</article>
-<stock_quantity>100</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <name>Автомобильный органайзер в багажник размер M 300х300х300 мм сумка экокожа армированная нить складная конструкция с перегородками крышкой ручкой водонепроницаемый для хранения инструментов автохимии и вещей</name>
 <name_ua>Автомобільний органайзер у багажник розмір M 300х300х300 мм сумка екошкіра армована нитка складана конструкція з перегородками кришкою ручкою водонепроникний для зберігання інструментів автохімії та речей</name_ua>
 <description><![CDATA[<div>
