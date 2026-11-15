@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-15 15:10">
+<yml_catalog date="2026-11-15 15:12">
 <shop>
 <name>Еловсубмарин</name>
 <currencies><currency id="UAH" rate="1"/></currencies>
@@ -35278,7 +35278,7 @@
 <param name="Розмір динаміків">2 x 10"</param>
 <param name="Висота">83 см</param>
 </offer>
-<offer id="rz8dccb7f97f19f2" available="false">
+<offer id="rz8dccb7f97f19f2" available="true">
 <price>8755</price>
 <price_old>10000</price_old>
 <currencyId>UAH</currencyId>
@@ -35289,7 +35289,7 @@
 <picture>https://opt-drop.com/storage/products/copy_blender-zepline-zp-798-1500-vt-7v1-krasnyi-43906966881986_a39ba238a1.jpg</picture>
 <vendor>Z.e.p line</vendor>
 <article>ZP-6807</article>
-<stock_quantity>0</stock_quantity>
+<stock_quantity>100</stock_quantity>
 <name>Автоматическая кофемашина Z.e.p line ZP-6807 черная 1500 Вт зерновая 20 бар</name>
 <name_ua>Автоматична кавомашина Z.e.p line ZP-6807 чорна 1500 Вт зернова 20 бар</name_ua>
 <description><![CDATA[<div>  <div><span><strong>Автоматическая кофемашина Zepline 1500 Вт со встроенной кофемолкой 20 бар</strong></span></div>  </div>  <p>Кофемашина предназначена для быстрого приготовления разнообразных горячих и холодных кофейных напитков из свежих зерен или молотого порошка. Она решает вопрос автоматического создания крепкого эспрессо, молочного капучино и нежного латте без необходимости ручного взбивания молока. Прибор отлично подойдет для всей семьи, домашней кухни или небольшого офиса.</p>  <span><strong>Особенности</strong></span>  <ul>  <li><strong>Помпа 20 бар</strong> — достижение максимальной насыщенности вкуса и плотной пенки crema.</li>  <li><strong>Мощность 1500 Вт</strong> — оперативный старт заваривания благодаря системе Thermoblock.</li>  <li><strong>Встроенная кофемолка</strong> — возможность ежедневного использования свежемолотых кофейных зерен.</li>  <li><strong>Молочник 500 мл</strong> — автоматическое вспенивание молока под действием высокого давления.</li>  <li><strong>Режим ESPRESSO COOL</strong> — специальная функция для получения прохладного эспрессо со льдом.</li>  <li><strong>Резервуар для воды 2,6 л</strong> — значительный запас жидкости без частых доливаний.</li>  <li><strong>Фильтры из нержавеющей стали</strong> — в комплекте две чаши для варки одной или двух порций.</li>  </ul>  <span><strong>Характеристики</strong></span>  <ul>  <li><strong>Тип аппарата:</strong> Автоматическая кофемашина</li>  <li><strong>Потребляемая мощность:</strong> 1500 Вт</li>  <li><strong>Давление помпы:</strong> 20 бар</li>  <li><strong>Тип кофе:</strong> Зерновой, молотый</li>  <li><strong>Встроенная кофемолка:</strong> Да</li>  <li><strong>Система нагревания:</strong> Thermoblock</li>  <li><strong>Объем емкости для воды:</strong> 2,6 л</li>  <li><strong>Объем резервуара для молока:</strong> 500 мл</li>  <li><strong>Количество автоматических программ:</strong> 7</li>  <li><strong>Вспенивание молока:</strong> Автоматическое, под высоким давлением</li>  <li><strong>Материал фильтров:</strong> Нержавеющая сталь</li>  <li><strong>Функция очистки:</strong> Встроенная система самоочистки</li>  <li><strong>Поддон для капель:</strong> Съемный</li>  <li><strong>Тип управления:</strong> Механическое кнопочное</li>  <li><strong>Цвет:</strong> Черный металлик</li>  </ul>  <span><strong>Для чего подходит</strong></span>  <ul>  <li>Приготовление порции классического эспрессо из цельных кофейных зерен.</li>  <li>Автоматическое создание капучино и латте с густой молочной пенкой.</li>  <li>Заваривание заранее молотого кофе через комплектные стальные фильтры.</li>  <li>Получение охлажденного эспрессо благодаря специальному режиму ESPRESSO COOL.</li>  </ul>
@@ -35979,7 +35979,7 @@
 <param name="Споживана потужність">49 Вт</param>
 <param name="Вага">0.95 кг</param>
 </offer>
-<offer id="rz61bbc4b97119f9" available="false">
+<offer id="rz61bbc4b97119f9" available="true">
 <price>5161</price>
 <price_old>6000</price_old>
 <currencyId>UAH</currencyId>
@@ -35991,7 +35991,7 @@
 <picture>https://opt-drop.com/storage/products/kofemashyna-zepline-zp-6803-3000-vt-20-bar-8-napytkov-espresso-cool-53971205867482_6612453eaf.jpg</picture>
 <vendor>Z.e.p line</vendor>
 <article>ZP-6803</article>
-<stock_quantity>0</stock_quantity>
+<stock_quantity>100</stock_quantity>
 <name>Кофемашина Z.e.p line ZP-6803 капсульная 3000 Вт 20 бар</name>
 <name_ua>Кавомашина Z.e.p line ZP-6803 капсульна 3000 Вт 20 бар</name_ua>
 <description><![CDATA[<div>  <div><span><strong>Рожковая кофемашина Zepline (3000 Вт, 20 bar) для молотого кофе и капсул</strong></span></div>  </div>  <p>Начинайте утро с чашки идеального кофе благодаря <strong>кофемашине Zepline</strong>. С впечатляющей мощностью <strong>3000 Вт</strong> и итальянской помпой высокого давления <strong>20 bar</strong> она максимально раскрывает аромат зерна. Устройство универсально: работает как с молотым кофе, так и с кофейными капсулами. Вместительный съемный резервуар для воды <strong>2 л</strong> позволяет готовить несколько порций подряд. Уникальная функция <strong>ESPRESSO COOL</strong> дарит возможность наслаждаться освежающим эспрессо со льдом.</p>  <p>Прибор разработан для быстрого приготовления разнообразных кофейных напитков из молотого кофе или капсул в домашних условиях или в офисе.</p>  <span><strong>Особенности</strong></span>  <ul>  <li><strong>Мощность 3000 Вт</strong> для мгновенного нагрева</li>  <li><strong>Давление 20 bar</strong> благодаря итальянскому насосу</li>  <li><strong>Универсальность</strong> — использование молотого кофе и капсул</li>  <li><strong>Функция ESPRESSO COOL</strong> для эспрессо со льдом</li>  <li><strong>8 различных напитков</strong> для разнообразия вкусов</li>  <li><strong>Съемный резервуар 2 л</strong> из прозрачного материала</li>  <li><strong>Быстрый термоблок</strong> для экономии времени</li>  <li><strong>Алюминиевый рожок</strong> для долговечности</li>  </ul>  <span><strong>Характеристики</strong></span>  <ul>  <li><strong>Потребляемая мощность:</strong> 3000 Вт</li>  <li><strong>Давление помпы:</strong> 20 бар</li>  <li><strong>Объем резервуара для воды:</strong> 2 л</li>  <li><strong>Тип используемого кофе:</strong> Молотый Капсулы</li>  <li><strong>Система нагрева:</strong> Термоблок</li>  <li><strong>Материал держателя фильтра:</strong> Алюминиевый сплав</li>  <li><strong>Количество видов напитков:</strong> 8</li>  <li><strong>Режим ESPRESSO COOL:</strong> Да (эспрессо со льдом)</li>  </ul>  <span><strong>Для чего подходит</strong></span>  <ul>  <li>Приготовление классического насыщенного эспрессо</li>  <li>Заваривание капсульного кофе различных брендов</li>  <li>Приготовление холодного эспрессо со льдом</li>  <li>Ежедневное использование дома или в офисном помещении</li>  </ul>
