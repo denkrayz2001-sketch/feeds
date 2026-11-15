@@ -47220,7 +47220,7 @@
 <param name="Піковий пусковий струм">700 А</param>
 <param name="Ємність акумулятора">60000 мАг</param>
 </offer>
-<offer id="rz1c2a2c39284be8" available="true">
+<offer id="rz1c2a2c39284be8" available="false">
 <price>3548</price>
 <price_old>4000</price_old>
 <currencyId>UAH</currencyId>
@@ -47233,7 +47233,7 @@
 <picture>https://opt-drop.com/storage/products/61175385414190_93aaaf808e.png</picture>
 <vendor>Jarrett</vendor>
 <article>224J12-1500w</article>
-<stock_quantity>100</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <name>Преобразователь напряжения Jarrett JARN-1500W автомобильный инвертор 12 В на 220 В мощностью 1500 Вт с USB-портом модифицированной синусоидой КПД 85 процентов защитой от перегрева металлическим корпусом для дома и авто</name>
 <name_ua>Перетворювач напруги Jarrett JARN-1500W автомобільний інвертор 12 В на 220 В потужністю 1500 Вт з USB-портом модифікованою синусоїдою КПД 85 відсотків захистом від перегріву металевим корпусом для дому та авто</name_ua>
 <description><![CDATA[<div>
