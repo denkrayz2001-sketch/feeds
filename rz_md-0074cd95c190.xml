@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-17 16:58">
+<yml_catalog date="2026-11-17 16:59">
 <shop>
 <name>Мидория</name>
 <currencies><currency id="UAH" rate="1"/></currencies>
@@ -34130,7 +34130,7 @@
 <param name="Тип дисплея">LED</param>
 <param name="Захист">Від перегріву, звуковий сигнал</param>
 </offer>
-<offer id="rz93f16248fed2bf" available="true">
+<offer id="rz93f16248fed2bf" available="false">
 <price>7410</price>
 <price_old>8500</price_old>
 <currencyId>UAH</currencyId>
@@ -34142,7 +34142,7 @@
 <picture>https://content2.rozetka.com.ua/goods/images/original/688609266.jpg</picture>
 <vendor>Narva</vendor>
 <article>ДО-001Top</article>
-<stock_quantity>100</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <name>Автономный дизельный обогреватель Narva NFH-5000/4 мощностью 5000 Вт с питанием 12/24/230 В расходом топлива 0,4 л/ч баком 5 л воздушным нагревом производительностью 150 м3/ч четырьмя выходами пультом ДУ для салона авто гаража и дачи</name>
 <name_ua>Автономний дизельний обігрівач Narva NFH-5000/4 потужністю 5000 Вт з живленням 12/24/230 В витратою пального 0,4 л/год паливним баком 5 л повітряним нагрівом продуктивністю 150 м3/год чотирма виходами пультом ДУ для салону авто гаража та дачі</name_ua>
 <description><![CDATA[<div>
