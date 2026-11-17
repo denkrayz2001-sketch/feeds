@@ -87022,7 +87022,7 @@
 <param name="Товщина">35 мм</param>
 <param name="Матеріали">міцні водонепроникні</param>
 </offer>
-<offer id="rz22496489e27539" available="true">
+<offer id="rz22496489e27539" available="false">
 <price>35286</price>
 <price_old>39000</price_old>
 <currencyId>UAH</currencyId>
@@ -87035,7 +87035,7 @@
 <picture>https://opt-drop.com/storage/products/63676015028718_76740540da.png</picture>
 <vendor>Без бренда</vendor>
 <article>Jam2181Top</article>
-<stock_quantity>100</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <name>Инверторный бензиновый генератор Sinco SG3500iS 3.3 кВт чистая синусоида Jam2181</name>
 <name_ua>Інверторний бензиновий генератор Sinco SG3500iS 3.3 кВт чиста синусоїда Jam2181</name_ua>
 <description><![CDATA[<div>
