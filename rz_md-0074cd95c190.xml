@@ -26842,7 +26842,7 @@
 <param name="Вага">6 кг</param>
 <param name="Живлення мережі">220–240 В, 50 Гц</param>
 </offer>
-<offer id="rz122e81f64ed9cd" available="true">
+<offer id="rz122e81f64ed9cd" available="false">
 <price>8680</price>
 <price_old>10000</price_old>
 <currencyId>UAH</currencyId>
@@ -26855,7 +26855,7 @@
 <picture>https://content.rozetka.com.ua/goods/images/original/692102954.jpg</picture>
 <vendor>BULLTEK</vendor>
 <article>ВБ-013Top</article>
-<stock_quantity>100</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <name>Автономный обогреватель BULLTEK BT001E воздушный мощностью 12 кВт с питанием от 12 В и 230 В на топливе дизель для гаражей мастерских складов и хозяйственных построек сезонного обогрева без стационарной системы отопления</name>
 <name_ua>Автономний обігрівач BULLTEK BT001E повітряний потужністю 12 кВт з живленням від 12 В та 230 В на паливі дизель для гаражів майстерень складів та господарських будівель сезонного обігрівання без стаціонарної системи опалення</name_ua>
 <description><![CDATA[<div>
