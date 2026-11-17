@@ -27242,7 +27242,7 @@
 <param name="Розмір силіконової форми">20 × 19 см</param>
 <param name="Довжина шнура">80 см</param>
 </offer>
-<offer id="rz80ef3a878c7311" available="true">
+<offer id="rz80ef3a878c7311" available="false">
 <price>7480</price>
 <price_old>8500</price_old>
 <currencyId>UAH</currencyId>
@@ -27253,7 +27253,7 @@
 <picture>https://content.rozetka.com.ua/goods/images/original/692482790.jpg</picture>
 <vendor>Hammer</vendor>
 <article>HM-157Top</article>
-<stock_quantity>100</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <name>Тепловая пушка Hammer HM-157 газовая 25 кВт красная</name>
 <name_ua>Теплова гармата Hammer HM-157 газова 25 кВт червона</name_ua>
 <description><![CDATA[<div>
