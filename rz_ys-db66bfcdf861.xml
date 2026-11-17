@@ -39445,7 +39445,7 @@
 <param name="Вихідна напруга">12 В</param>
 <param name="Тип охолодження">Активне (вентиляційні отвори)</param>
 </offer>
-<offer id="rzd94b43b8c5a31d" available="true">
+<offer id="rzd94b43b8c5a31d" available="false">
 <price>19340</price>
 <price_old>22000</price_old>
 <currencyId>UAH</currencyId>
@@ -39456,7 +39456,7 @@
 <picture>https://opt-drop.com/storage/products/akkumuliator-vipeuronet-12v-200ah-eco-series-helevyi-akkumuliator-dlia-solnechnykh-enerhosystem-system-rezervnoho-pytanyia-19447451869035_5132d90ec4.png</picture>
 <vendor>Без бренда</vendor>
 <article>VIP-EURONETTop</article>
-<stock_quantity>100</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <name>Аккумулятор VIPEURONET 12V 200Ah ECO Series GEL VIP-EURONET</name>
 <name_ua>Акумулятор VIPEURONET 12V 200Ah ECO Series GEL VIP-EURONET</name_ua>
 <description><![CDATA[<div>
