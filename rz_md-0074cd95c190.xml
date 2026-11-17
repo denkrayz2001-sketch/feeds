@@ -33856,7 +33856,7 @@
 <param name="Максимальний час таймера">60 хв</param>
 <param name="Регулювання температури">Плавне</param>
 </offer>
-<offer id="rz02680b9c372d98" available="true">
+<offer id="rz02680b9c372d98" available="false">
 <price>7410</price>
 <price_old>8500</price_old>
 <currencyId>UAH</currencyId>
@@ -33868,7 +33868,7 @@
 <picture>https://content.rozetka.com.ua/goods/images/original/688609030.jpg</picture>
 <vendor>Narva</vendor>
 <article>ДО-002Top</article>
-<stock_quantity>100</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <name>Дизельный обогреватель Narva NFH-5000AL автономный воздушный 5000 Вт питание 12 В 24 В 230 В топливный бак 5 л расход 0,4 л/ч крыльчатка 150 м3/ч алюминиевое вентиляционное отверстие красный с ручкой для транспорта гаража мастерской склада</name>
 <name_ua>Дизельний обігрівач Narva NFH-5000AL автономний повітряний 5000 Вт живлення 12 В 24 В 230 В паливний бак 5 л витрата 0,4 л/год крильчатка 150 м3/год алюмінієвий вентиляційний отвір червоний з ручкою для транспорту гаража майстерні складу</name_ua>
 <description><![CDATA[<div>
