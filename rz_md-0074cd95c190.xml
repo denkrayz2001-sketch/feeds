@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-17 16:14">
+<yml_catalog date="2026-11-17 16:57">
 <shop>
 <name>Мидория</name>
 <currencies><currency id="UAH" rate="1"/></currencies>
@@ -26939,7 +26939,7 @@
 <param name="Паливо">Дизельне</param>
 <param name="Тип">Автономний дизельний обігрівач</param>
 </offer>
-<offer id="rze3d2ae27ddb294" available="true">
+<offer id="rze3d2ae27ddb294" available="false">
 <price>7970</price>
 <price_old>9000</price_old>
 <currencyId>UAH</currencyId>
@@ -26953,7 +26953,7 @@
 <picture>https://content.rozetka.com.ua/goods/images/original/692482909.jpg</picture>
 <vendor>Boxer</vendor>
 <article>BX-348Top</article>
-<stock_quantity>100</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <name>Тепловая пушка Boxer BX-348 газовая 40 кВт 1200 куб.м/ч напольная с открытой камерой сгорания металлическим чёрным корпусом защитой от перегрева шлангом и редуктором для обогрева складов гаражей ангаров строительных площадок</name>
 <name_ua>Теплова гармата Boxer BX-348 газова 40 кВт 1200 куб.м/год підлогова з відкритою камерою згоряння металевим чорним корпусом захистом від перегріву шлангом і редуктором для обігріву складів гаражів ангарів будівельних майданчиків</name_ua>
 <description><![CDATA[<div>
