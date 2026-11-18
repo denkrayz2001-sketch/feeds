@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-18 07:02">
+<yml_catalog date="2026-11-18 07:03">
 <shop>
 <name>Мидория</name>
 <currencies><currency id="UAH" rate="1"/></currencies>
@@ -88394,7 +88394,7 @@
 <param name="Колір">Синій</param>
 <param name="Тип конструкції">Розсувна (гармошка)</param>
 </offer>
-<offer id="rz6a012cda03bb1d" available="true">
+<offer id="rz6a012cda03bb1d" available="false">
 <price>5847</price>
 <price_old>6500</price_old>
 <currencyId>UAH</currencyId>
@@ -88409,7 +88409,7 @@
 <picture>https://opt-drop.com/storage/products/11349117442934_242bbbd2b4.jpeg</picture>
 <vendor>Без бренда</vendor>
 <article>50600/3Top</article>
-<stock_quantity>100</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <name>Торговая палатка раздвижная 3 х 3 м усиленный стальной каркас 50600/3</name>
 <name_ua>Торговий намет розсувний 3 х 3 м посилений сталевий каркас 50600/3</name_ua>
 <description><![CDATA[<div>
