@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-18 07:03">
+<yml_catalog date="2026-11-18 12:35">
 <shop>
 <name>Мидория</name>
 <currencies><currency id="UAH" rate="1"/></currencies>
@@ -21301,7 +21301,7 @@
 <param name="Кількість предметів">154 шт</param>
 <param name="Матеріал органайзера">Текстиль</param>
 </offer>
-<offer id="rz8f943a8f9e1946" available="true">
+<offer id="rz8f943a8f9e1946" available="false">
 <price>4615</price>
 <price_old>5500</price_old>
 <currencyId>UAH</currencyId>
@@ -21313,7 +21313,7 @@
 <picture>https://opt-drop.com/storage/products/hoco-j91a-100000mah-22.5w-5a-paverbank-vneshnyi-akkumuliator-s-bystroi-zariadkoi-portatyvnyi-akkumuliator-led-dysplei-34759700912287_b324033b02.png</picture>
 <vendor>Hoco</vendor>
 <article>Jam2111</article>
-<stock_quantity>100</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <name>Повербанк Hoco J91A 100000 мАч 22.5W 5A внешний аккумулятор с быстрой зарядкой встроенными кабелями LED-дисплеем и фонарем ремешок на руку черный для смартфонов и планшетов</name>
 <name_ua>Повербанк Hoco J91A 100000 мАгод 22.5W 5A зовнішній акумулятор зі швидкою зарядкою вбудованими кабелями LED-дисплеєм та ліхтарем ремінець на руку чорний для смартфонів та планшетів</name_ua>
 <description><![CDATA[<div>
