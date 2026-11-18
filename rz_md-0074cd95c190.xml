@@ -89056,7 +89056,7 @@
 <param name="Підтримка 4G LTE">Так</param>
 <param name="Зум">4.0X цифровий</param>
 </offer>
-<offer id="rza9cf779a26ab8b" available="true">
+<offer id="rza9cf779a26ab8b" available="false">
 <price>14316</price>
 <price_old>16000</price_old>
 <currencyId>UAH</currencyId>
@@ -89067,7 +89067,7 @@
 <picture>https://opt-drop.com/storage/products/akkumuliator-dlia-elektrosamokata-52v-24ah-li-oh-39298252627327_af6b32ede5.jpg</picture>
 <vendor>Без бренда</vendor>
 <article>23752V24ATop</article>
-<stock_quantity>100</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <name>Аккумулятор для электросамоката Li-Oh 237 52V24A 52 В 24 Ач Samsung</name>
 <name_ua>Акумулятор для електросамоката Li-Oh 237 52V24A 52 В 24 Ач Samsung</name_ua>
 <description><![CDATA[<div>
