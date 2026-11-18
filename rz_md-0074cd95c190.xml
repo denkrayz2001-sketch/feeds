@@ -89173,7 +89173,7 @@
 <param name="Максимальний струм розряду в імпульсі">45 A</param>
 <param name="Тип роз'єму">XT60</param>
 </offer>
-<offer id="rz646a24998b19b5" available="true">
+<offer id="rz646a24998b19b5" available="false">
 <price>5972</price>
 <price_old>7000</price_old>
 <currencyId>UAH</currencyId>
@@ -89186,7 +89186,7 @@
 <picture>https://opt-drop.com/storage/products/avtomatycheskyi-zamok-parkovky-s-dystantsyonnym-upravlenyem-180-43514088655356_5b15144238.jpg</picture>
 <vendor>Без бренда</vendor>
 <article>OS1245121010Top</article>
-<stock_quantity>100</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <name>Автоматический парковочный барьер OS1245121010 жёлтый с пультом управления поворот 180° IP67</name>
 <name_ua>Автоматичний паркувальний бар'єр OS1245121010 жовтий з пультом керування поворот 180° IP67</name_ua>
 <description><![CDATA[<div>
