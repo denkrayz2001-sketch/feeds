@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-18 07:01">
+<yml_catalog date="2026-11-18 07:02">
 <shop>
 <name>Мидория</name>
 <currencies><currency id="UAH" rate="1"/></currencies>
@@ -88604,7 +88604,7 @@
 <param name="Тип каркасу">Гармошка</param>
 <param name="Матеріал каркасу">Сталь</param>
 </offer>
-<offer id="rzad0c2fd5109c96" available="true">
+<offer id="rzad0c2fd5109c96" available="false">
 <price>4750</price>
 <price_old>5500</price_old>
 <currencyId>UAH</currencyId>
@@ -88619,7 +88619,7 @@
 <picture>https://opt-drop.com/storage/products/45043142923857_2718e8b5e0.jpeg</picture>
 <vendor>Без бренда</vendor>
 <article>003/1Top</article>
-<stock_quantity>100</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <name>Шатер раздвижной 3х3 м чёрный каркас зелёный тент брезент с ПВХ 003/1</name>
 <name_ua>Шатро розсувне 3х3 м чорний каркас зелений тент брезент з ПВХ 003/1</name_ua>
 <description><![CDATA[<div>
