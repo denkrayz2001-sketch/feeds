@@ -88497,7 +88497,7 @@
 <param name="Тканина">Брезент</param>
 <param name="Тип каркасу">Гармошка</param>
 </offer>
-<offer id="rzf05f4d838bb4ef" available="true">
+<offer id="rzf05f4d838bb4ef" available="false">
 <price>4250</price>
 <price_old>5000</price_old>
 <currencyId>UAH</currencyId>
@@ -88512,7 +88512,7 @@
 <picture>https://opt-drop.com/storage/products/71453130612735_f54e64d53c.jpeg</picture>
 <vendor>Без бренда</vendor>
 <article>002/3Top</article>
-<stock_quantity>100</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <name>Шатер раздвижной 3х2 м каркас-гармошка чёрный тент красный 002/3</name>
 <name_ua>Шатер розсувний 3х2 м каркас-гармошка чорний тент червоний 002/3</name_ua>
 <description><![CDATA[<div>
@@ -88821,7 +88821,7 @@
 <param name="Тканина">Брезент</param>
 <param name="Тип каркасу">Гармошка</param>
 </offer>
-<offer id="rz304d133029e782" available="true">
+<offer id="rz304d133029e782" available="false">
 <price>4142</price>
 <price_old>5000</price_old>
 <currencyId>UAH</currencyId>
@@ -88836,7 +88836,7 @@
 <picture>https://opt-drop.com/storage/products/71453130612735_f54e64d53c.jpeg</picture>
 <vendor>Без бренда</vendor>
 <article>002Top</article>
-<stock_quantity>100</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <name>Раздвижной шатер Без бренда 3 х 2 м стальной каркас-гармошка 002 Разные цвета</name>
 <name_ua>Розсувне шатро Без бренду 3 х 2 м сталевий каркас-гармошка 002 Різні кольори</name_ua>
 <description><![CDATA[<div>
