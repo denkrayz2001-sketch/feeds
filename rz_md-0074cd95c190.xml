@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-18 12:35">
+<yml_catalog date="2026-11-18 16:03">
 <shop>
 <name>Мидория</name>
 <currencies><currency id="UAH" rate="1"/></currencies>
@@ -64606,7 +64606,7 @@
 <param name="Захист ланцюга">Так</param>
 <param name="Втулка">Закрита з захистом від пилу</param>
 </offer>
-<offer id="rz8e3a3fc227d23f" available="true">
+<offer id="rz8e3a3fc227d23f" available="false">
 <price>8822</price>
 <price_old>10000</price_old>
 <currencyId>UAH</currencyId>
@@ -64617,7 +64617,7 @@
 <picture>https://opt-drop.com/storage/products/velosyped-motke-constellation-r22-rozovyi-sportyvnyi-horodskoi-velosyped-dlia-detei-71289688618044_109e8cdbbd.png</picture>
 <vendor>MOTKE</vendor>
 <article>4430-ConstellationR22/3To</article>
-<stock_quantity>100</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <name>Детский велосипед MOTKE Constellation R22 Розовый 4430-ConstellationR22/3</name>
 <name_ua>Дитячий велосипед MOTKE Constellation R22 Рожевий 4430-ConstellationR22/3</name_ua>
 <description><![CDATA[<div>
